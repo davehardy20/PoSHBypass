@@ -1,0 +1,10 @@
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\obj\Debug\PoSHBypass2.csprojResolveAssemblyReference.cache
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\obj\Debug\PoSHBypass2.csproj.CoreCompileInputs.cache
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\bin\Debug\PoSHBypass2.exe.config
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\bin\Debug\PoSHBypass2.exe
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\bin\Debug\PoSHBypass2.pdb
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\bin\Debug\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\bin\Debug\System.Management.Automation.dll
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\bin\Debug\System.Management.Automation.Resources.dll
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\obj\Debug\PoSHBypass2.exe
+C:\Users\dave\source\repos\PoSH-Bypass\PoSHBypass-2\obj\Debug\PoSHBypass2.pdb
