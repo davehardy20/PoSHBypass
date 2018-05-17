@@ -1,0 +1,8 @@
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.csproj.CoreCompileInputs.cache
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\bin\Debug\PoSH_Bypass_Payload.exe.config
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\bin\Debug\PoSH_Bypass_Payload.exe
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\bin\Debug\PoSH_Bypass_Payload.pdb
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\bin\Debug\System.Management.Automation.dll
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.csproj.CopyComplete
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.exe
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.pdb
