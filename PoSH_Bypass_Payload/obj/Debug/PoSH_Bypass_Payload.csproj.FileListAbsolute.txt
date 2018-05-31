@@ -6,3 +6,4 @@ C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\bin\Debug\System.Mana
 C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.csproj.CopyComplete
 C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.exe
 C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.pdb
+C:\Users\daveh\source\repos\PoSHBypass\PoSH_Bypass_Payload\obj\Debug\PoSH_Bypass_Payload.csprojAssemblyReference.cache
