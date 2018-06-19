@@ -1,7 +1,7 @@
 ﻿# PoSH_Bypass
 
 PoSHBypass is a payload and console proof of concept that allows an attatcker or for that matter a legitimate user to bypass PowerShell's 'Constrianed Language Mode, AMSI and ScriptBlock and Module logging'.
-The bulk of this concept is the combination of 3 separate pieces of research, I've stuck these 3 elements together as my first attempt at non 'Hello World!' C# project.
+The bulk of this concept is the combination of 3 other researcher's separate pieces of work, I've stuck these 3 elements together as my first attempt at non 'Hello World!' C# project.
 * Constrained Language Mode is credited to James Forshaw and is detailed here in his blog series surrounding Windows 10 S and Device Guard - https://tyranidslair.blogspot.com/2017/08/copy-of-device-guard-on-windows-10-s.html
 * PowerShell ScriptBlock and Module logging is creditied to Lee Christensen - https://github.com/leechristensen/Random/blob/master/CSharp/DisablePSLogging.cs
 * AMSI bypass Matt Graeber @mattifestation - https://twitter.com/mattifestation/status/735261176745988096?lang=en
