@@ -9,6 +9,7 @@ using System.Management.Automation.Security;
 //  https://blogs.msdn.microsoft.com/kebab/2014/04/28/executing-powershell-scripts-from-c/
 //  https://github.com/leechristensen/Random/blob/master/CSharp/DisablePSLogging.cs
 //  https://tyranidslair.blogspot.co.uk/2017/08/copy-of-device-guard-on-windows-10-s.html
+//  https://twitter.com/mattifestation/status/735261176745988096?lang=en
 
 namespace PoSH_Bypass_Payload
 {
